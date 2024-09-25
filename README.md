@@ -88,3 +88,7 @@ The client will:
    node server3.js
    node server4.js
    node server5.js
+
+3. Start client side code in separate terminal window:
+   ```bash
+   node client.js
